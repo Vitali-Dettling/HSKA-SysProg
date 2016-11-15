@@ -1,0 +1,23 @@
+Funktionierendes Beispiel für die String Klasse
+--------------------------------------------------
+all: String.o testMain.o
+	g++ -g 	debug/String.o  debug/testMain.o -o debug/stringMakeFile
+	
+String.o:
+	g++ -c -g src/String.cpp -o debug/String.o
+	
+	
+testMain.o:
+	g++ -c -g src/testMain.cpp -o debug/testMain.o
+	
+----------------------------------------------------	
+g++  ???
+-g Debug Information
+-c Compilieren
+-o Output
+all:
+   Reichenfolge in der es linken soll
+   
+Klassenname.o:
+			Wo die *.cpp file liegt oder bei Template *.h  -> Wohin es die *.o File speichern soll.
+			

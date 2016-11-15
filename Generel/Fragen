@@ -1,0 +1,51 @@
+@ ALL
+F - Müssen die Includes in den Project-ordnern sein. Ich kann sie nicht löschen. Frage, weil wir die STL ja nicht verwenden dürfen?
+--> keine ahnung habs auch schon bemerkt, müssen mal sehen wies gehen soll 
+--> Die werden automatisch erstellt. Müssen drinnen bleiben.
+  
+F - Compilieren funktioniert nicht, der compiler kann aus irgendeinem Grund die Main nicht finden?
+--> Um compilieren zu können brauchst du die MAKE-FILES...
+
+F - Soll die Namensgebung in Englisch sein?
+--> Würde sagen JOA, englisch ist immer gut !! 
+--> Ich bin für ja, da wir schon so angefangen haben...
+--> Kommentare auf Deutsch.
+
+F - Weiß jemand wie man die Deutsche rechtschreibung einschaltet???
+--> Hat sich geklärt einfach draufhalten mit der Maus auf die Rechtsdchreibung und "Disable" aktivieren
+
+
+F - Wo sollen wir die ganzen TokenTypes definieren ? SymobolTabelle oder ??
+--> Kommen in der Automaten rein, denn der Automat gibt dem Scanner schon ein TTYPE zurück!!!
+
+F - Wieso lasen sich die makefiles nur auf den VM in der Hs bauen und nicht auf den heimischen Rechnern???
+--> Man muss einen Compiler zusätzlich installieren... Mathias kümmert sich drum...
+
+F - Wie übergibt man dem Buffer ein file???
+--> Beispiel im Terminal ./Buffer testFile
+
+F - Wie groß soll das Buffer array werden???
+--> Wir ausprobiert wenn alles steht, dann lessen wir Files ein und schauen bei welcher Größe es am besten funktioniert.
+
+F - Wie baucht man die Interfaces in die makeFile richtig ein??? Damit sie nach dem Compilieren nach außen sichtbar sind???
+--> In einigen makefiles wurde es schon gelöst.
+
+
+
+
+F - Wie funktioniert es richtig mit den Interfaces????
+
+F - Der Pfad zum Scanner sharedLIB ist hart codiert in der Symtable makefile kann ich das anderst machen???`I Scanner makefile wurde es auch andest gemacht???
+
+
+
+ 
+ 
+
+@ Mathias
+F - Gibt es eine bessere methode ordner zu erstellen, als ein projectorder für generel?
+--> du kannst auch in den einzelnen projekten einzelne ordner erstellen...
+
+@ Vitali
+
+@ Anton

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/I/svn/sysss1209/!svn/ver/230/Scanner/src
+END
+TestScanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/I/svn/sysss1209/!svn/ver/194/Scanner/src/TestScanner.cpp
+END
+ScannerImp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/I/svn/sysss1209/!svn/ver/230/Scanner/src/ScannerImp.cpp
+END
+Token.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/I/svn/sysss1209/!svn/ver/181/Scanner/src/Token.h
+END
+Automat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/I/svn/sysss1209/!svn/ver/181/Scanner/src/Automat.cpp
+END
+Scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/I/svn/sysss1209/!svn/ver/151/Scanner/src/Scanner.h
+END
+ScannerImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/I/svn/sysss1209/!svn/ver/181/Scanner/src/ScannerImp.h
+END
+TType.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/I/svn/sysss1209/!svn/ver/194/Scanner/src/TType.h
+END
+Automat.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/I/svn/sysss1209/!svn/ver/181/Scanner/src/Automat.h
+END
+Token.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/I/svn/sysss1209/!svn/ver/230/Scanner/src/Token.cpp
+END
+IScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/I/svn/sysss1209/!svn/ver/117/Scanner/src/IScanner.h
+END

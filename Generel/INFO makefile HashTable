@@ -1,0 +1,22 @@
+Der makefile wird erst funktionieren, wenn die Template Klasse (praktisch alle *.h Klassen) einen Wert für den Template haben.
+Also es muss eine linkung vorher geschehen die diesen Wert übergibt.
+
+------> Schauen ob wir diese Template wirklich in diesem Fall brauchen und eventuell abändern.
+
+makefile für die HasTable: (code)
+---------------------------
+
+all: HashTable.o HashList.o SymTableEntry.o testMain.o
+	g++ -g 	debug/HashTable/HashTable.o debug/HashTable/HashList.o debug/HashTable/SymTableEntry.o debug/HashTable/testMain.o -o HashTable
+
+HashTable.o:
+	g++ -c -g src/HashTable/HashTable.h -o debug/HashTable/HashTable.o
+	
+HashList.o:
+	g++ -c -g src/HashTable/HashList.h -o debug/HashTable/HashList.o
+	
+SymTableEntry.o:
+	g++ -c -g src/HashTable/SymTableEntry.h -o debug/HashTable/SymTableEntry.o
+	
+testMain.o:
+	g++ -c -g src/HashTable/testMain.cpp -o debug/HashTable/testMain.o

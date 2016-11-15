@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/I/svn/sysss1209/!svn/ver/188/Scanner/sharedLIB
+END
+libString.so
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/I/svn/sysss1209/!svn/ver/188/Scanner/sharedLIB/libString.so
+END
+libBuffer.so
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/I/svn/sysss1209/!svn/ver/188/Scanner/sharedLIB/libBuffer.so
+END
+libSymTable.so
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/I/svn/sysss1209/!svn/ver/188/Scanner/sharedLIB/libSymTable.so
+END

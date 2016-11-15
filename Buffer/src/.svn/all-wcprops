@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/I/svn/sysss1209/!svn/ver/270/Buffer/src
+END
+testMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/I/svn/sysss1209/!svn/ver/254/Buffer/src/testMain.cpp
+END
+ReadBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/I/svn/sysss1209/!svn/ver/270/Buffer/src/ReadBuffer.h
+END
+IBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/I/svn/sysss1209/!svn/ver/254/Buffer/src/IBuffer.h
+END
+WriteBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/I/svn/sysss1209/!svn/ver/229/Buffer/src/WriteBuffer.cpp
+END
+WriteBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/I/svn/sysss1209/!svn/ver/185/Buffer/src/WriteBuffer.h
+END
+ReadBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/I/svn/sysss1209/!svn/ver/270/Buffer/src/ReadBuffer.cpp
+END

@@ -1,0 +1,4 @@
+
+
+calcValue() muss immer nach dem einfügen des Array einmal ausgeführ werden, wenn es nur Zahlen sind. Damit es den Wert im Sting Intern Abspeichert,
+sonst ist value NULL
